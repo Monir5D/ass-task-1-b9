@@ -1,0 +1,21 @@
+.container{
+    position: relative;
+display: c 0o;
+    
+   
+    
+}
+.text-centre{
+    position: absolute;
+    bottom: 277px;
+    left: 344px;
+    top: 233px;
+    right: 344px;
+    color: #fff;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
